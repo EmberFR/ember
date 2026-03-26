@@ -1,2 +1,2 @@
 ## Certificates
-- DataCamp: Introduction to Python (March 2026)
+- [DataCamp – Introduction to Python](datacamp-python.pdf)
