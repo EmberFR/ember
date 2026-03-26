@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ember</h1>
 <h3 align="center">A new python developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmberFR&label=Profile views&color=0e75b6&style=flat" alt="EmberFR" /> </p>
 
 - 🔭 I’m currently working on [Kova](https://kova-ai.netlify.app)
 
