@@ -13,8 +13,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-EmberExploits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmberExploits)
-[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberExploits/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-EmberFR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmberFR)
+[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 </div>
@@ -89,7 +89,7 @@ Currently sharpening Python capabilities, expanding systems knowledge, and build
 
 <br>
 
-[![Python Certificate](https://img.shields.io/badge/Python-Introduction_to_Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberExploits/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+[![Python Certificate](https://img.shields.io/badge/Python-Introduction_to_Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
 
 *Certified in Introduction to Python*
 
@@ -103,10 +103,10 @@ Currently sharpening Python capabilities, expanding systems knowledge, and build
 
 <br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=EmberExploits&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmberExploits&layout=compact&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff)
+![stats](https://github-readme-stats.vercel.app/api?username=EmberFR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&text_color=ffffff)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmberFR&layout=compact&hide_border=true&bg_color=0d1117&title_color=cc0000&text_color=ffffff)
 
-[![streak](https://streak-stats.demolab.com?user=EmberExploits&theme=dark&hide_border=true&background=0D1117&ring=cc0000&fire=FF6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=EmberFR&theme=dark&hide_border=true&background=0D1117&ring=cc0000&fire=FF6600&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -121,6 +121,6 @@ Currently sharpening Python capabilities, expanding systems knowledge, and build
 0x45 0x6D 0x62 0x65 0x72 // ember
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=EmberExploits&color=cc0000&style=flat-square&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=EmberFR&color=cc0000&style=flat-square&label=visitors)
 
 </div>
