@@ -83,6 +83,25 @@ Currently sharpening Python capabilities, expanding systems knowledge, and build
 
 <br>
 
+## 〈 projects 〉
+
+<br>
+
+**[null-clip](https://github.com/EmberFR/null-clip)** — lightweight linux gpu replay buffer & game clipper
+
+> High-performance instant game clipper for Linux (Wayland & X11). Direct GPU hardware encoding with near-zero FPS drop, low RAM footprint (~50MB), and instant sharing.
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++ / GPU](https://img.shields.io/badge/GPU_Replay-cc0000?style=flat-square)
+![AppImage](https://img.shields.io/badge/AppImage-222222?style=flat-square)
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
 ## 〈 certifications 〉
