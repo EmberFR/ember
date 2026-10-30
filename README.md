@@ -14,7 +14,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-EmberFR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmberFR)
-[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+[![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/ember/blob/main/introduction%20to%20python%20certificate.pdf)
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 </div>
@@ -89,7 +89,7 @@ Currently sharpening Python capabilities, expanding systems knowledge, and build
 
 <br>
 
-[![Python Certificate](https://img.shields.io/badge/Python-Introduction_to_Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+[![Python Certificate](https://img.shields.io/badge/Python-Introduction_to_Python-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberFR/ember/blob/main/introduction%20to%20python%20certificate.pdf)
 
 *Certified in Introduction to Python*
 
