@@ -1,15 +1,69 @@
-<h1 align="center">Hi 👋, I'm Ember</h1>
-<h3 align="center">A new python developer</h3>
+```markdown
+<div align="center">
 
-- 🔭 I’m currently working on [Kova](https://kova-ai.netlify.app)
 
-- 🌱 I’m currently learning **Python**
+```
 
-- 👯 My [Certificates](https://github.com/EmberExploits/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+███████╗███╗   ███╗██████╗ ███████╗██████╗
+██╔════╝████╗ ████║██╔══██╗██╔════╝██╔══██╗
+█████╗  ██╔████╔██║██████╔╝█████╗  ██████╔╝
+██╔══╝  ██║╚██╔╝██║██╔══██╗██╔══╝  ██╔══██╗
+███████╗██║ ╚═╝ ██║██████╔╝███████╗██║  ██║
+╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=500&lines=python+developer;linux+enthusiast;game+dev;tool+builder" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-EmberExploits-C11111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmberExploits)
+[![Certificates](https://img.shields.io/badge/Certificates-Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/EmberExploits/certificates/blob/8b028a29b7fcc25d7177b32d2c1cfc24de4bdeca/introduction%20to%20python%20certificate.pdf)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 〈 about 〉
+
+```bash
+┌──(ember㉿cachyos)-[~]
+└─$ cat /proc/identity
+
+  alias  ──  Ember
+  focus  ──  python · linux · web & game dev
+  certs  ──  Introduction to Python
+  status ──  building projects · writing scripts · sharpening skills
+
+```
+
+Developer working across Python, Linux systems, and modern dev tools. Focused on building real projects, automating workflows, and writing clean, reliable code in the terminal.
+
+---
+
+## 〈 skills 〉
+
+**`core & scripting`**
+
+**`web & database`**
+
+**`dev tools & engines`**
+
+---
+
+## 〈 certifications 〉
+
+---
+
+## 〈 stats 〉
+
+---
+
+```
+0x65 0x6D 0x62 0x65 0x72 // ember
+
+```
